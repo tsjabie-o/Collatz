@@ -1,4 +1,6 @@
 # Collatz
+Opdracht voor studie
+
 Berekent het Collatz-getal van een reeks cijfers.
 Dat wil zeggen, input is een reeks positieve getallen C.
 Voor elke c in C:
